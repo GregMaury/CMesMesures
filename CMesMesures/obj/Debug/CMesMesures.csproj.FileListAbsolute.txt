@@ -1,0 +1,14 @@
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\bin\Debug\CMesMesures.exe.config
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\bin\Debug\CMesMesures.exe
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\bin\Debug\CMesMesures.pdb
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.csprojResolveAssemblyReference.cache
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\MainWindow.g.cs
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\App.g.cs
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures_MarkupCompile.cache
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures_MarkupCompile.lref
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\MainWindow.baml
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.g.resources
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.Properties.Resources.resources
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.csproj.GenerateResource.Cache
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.exe
+C:\Users\gregory.maury\Source\Repos\CMesMesures\CMesMesures\obj\Debug\CMesMesures.pdb
