@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CMesMesures"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="C Mes Mesures" Height="350" Width="525">
     <Grid>
-        
+        <WrapPanel Orientation="Vertical">
+            <TextBox Name="txtNamePicture" BorderThickness="0" />
+            <Button x:Name="btnOpenPicture" Click="btnOpenPicture_Click" Content="Ouvrir l'image"/>
+            <Image x:Name="imageBox"/>
+        </WrapPanel>
     </Grid>
 </Window>
